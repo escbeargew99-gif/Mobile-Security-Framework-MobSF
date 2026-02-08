@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # Check for Python3 and validate version
 if ! command -v python3 &>/dev/null; then
