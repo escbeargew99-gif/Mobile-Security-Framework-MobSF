@@ -1,7 +1,7 @@
 # Base image
 FROM python:3.13-slim-bookworm
 
-LABEL \
+LABEL \ 
     name="MobSF" \
     author="Ajin Abraham <ajin25@gmail.com>" \
     maintainer="Ajin Abraham <ajin25@gmail.com>" \
