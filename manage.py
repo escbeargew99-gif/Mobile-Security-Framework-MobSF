@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Django Manage."""
 import warnings
-import os
+import os 
 import sys
 
 warnings.filterwarnings('ignore', category=UserWarning, module='cffi')
