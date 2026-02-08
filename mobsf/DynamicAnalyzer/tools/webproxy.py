@@ -90,3 +90,4 @@ def get_http_tools_url(req):
     ip = req.get_host().split(':')[0]
     port = settings.PROXY_PORT
     return f'{scheme}://{ip}:{str(port)}'
+ 
